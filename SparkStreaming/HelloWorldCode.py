@@ -1,4 +1,6 @@
 ## The code contains both the RDD version and the DataFrame version
+## RDD has nicer feature that you need to iterate thruogh each row and map certain function to it, especially a typical map reduce job
+
 
 from pyspark.sql import SparkSession
 from pyspark import SparkContext,SparkConf
