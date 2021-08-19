@@ -1,0 +1,45 @@
+-------------------------------------------
+Batch: 0
+-------------------------------------------
++--------------------+---------+
+|               email|birthYear|
++--------------------+---------+
+|Jacob.Anderson@te...|     1965|
+|Senthil.Anderson@...|     1962|
+|Santosh.Davis@tes...|     1961|
+|Bobby.Sanchez@tes...|     1960|
+|Ashley.Spencer@te...|     1959|
+| Eric.Ahmed@test.com|     1958|
+|Craig.Clayton@tes...|     1957|
+|Jacob.Khatib@test...|     1956|
+|Spencer.Khatib@te...|     1955|
+|John.Lincoln@test...|     1954|
+|Ben.Sanchez@test.com|     1953|
+|Senthil.Davis@tes...|     1952|
+|Sean.Anandh@test.com|     1951|
+|Suresh.Olson@test...|     1950|
+|Dan.Gonzalez@test...|     1949|
+|Suresh.Lincoln@te...|     1947|
+|Trevor.Aristotle@...|     1946|
+|Edward.Habschied@...|     1945|
+|Ashley.Jackson@te...|     1944|
+|Neeraj.Jones@test...|     1943|
++--------------------+---------+
+only showing top 20 rows
+
+-------------------------------------------
+Batch: 1
+-------------------------------------------
++-----+---------+
+|email|birthYear|
++-----+---------+
++-----+---------+
+
+-------------------------------------------
+Batch: 2
+-------------------------------------------
++-----+---------+
+|email|birthYear|
++-----+---------+
++-----+---------+
+
